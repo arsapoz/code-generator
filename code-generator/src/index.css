@@ -6,6 +6,20 @@ a {
     color: #f98c4d;
 }
 .c-primary{ color: #f98c4d; }
+.c-primary:hover,
+.c-primary:focus{
+    color: #d27642!important;
+}
 .b-primary { background-color: #f98c4d; }
+.b-primary:hover,
+.b-primary:focus{
+    background-color: #d27642!important;
+}
 .c-secondary { color: #e72d5d; }
+.c-secondary:hover,
+.c-secondary:focus
+{ color: #9e1f40; }
 .bg-secondary{ background-color: #e72d5d; }
+.bg-secondary:hover,
+.bg-secondary:focus
+{ background-color: #9e1f40; }
