@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    color: #f98c4d;
+}
+.c-primary{
+    color: #f98c4d;
+}
+.b-primary{
+    background-color: #f98c4d;
+}
