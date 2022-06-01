@@ -5,9 +5,7 @@
 a {
     color: #f98c4d;
 }
-.c-primary{
-    color: #f98c4d;
-}
-.b-primary{
-    background-color: #f98c4d;
-}
+.c-primary{ color: #f98c4d; }
+.b-primary { background-color: #f98c4d; }
+.c-secondary { color: #e72d5d; }
+.bg-secondary{ background-color: #e72d5d; }

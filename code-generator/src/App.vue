@@ -176,7 +176,9 @@
           </form>
         <div v-if="step === 2" class="flex flex-col">
           <img class="p-16 w-full" src="/loader.svg" alt="Loading"  />
+
           <div class="text-white">
+            <h1>Human verification</h1>
           <div>Connecting to NBA server</div>
           <div>
           Connecting to sql database...
